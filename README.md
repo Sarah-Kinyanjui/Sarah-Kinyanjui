@@ -6,3 +6,6 @@ I am a cybersecurity enthusiast with a focus on ethical hacking, penetration tes
 
 ## Objective
 I aim to transition into the field of cybersecurity, targeting roles such as a Security Operations Center (SOC) Tier 1 Analyst, Network Engineer, and Security Engineer, where I can apply my skills in threat detection, incident response, and security automation.
+
+## Projects
+-[Nmap Scans](https://github.com/Sarah-Kinyanjui/Nmap-Scans) - A project showcasing various scans that can be performed on an nmap scanner for security exploration and security assesments.
