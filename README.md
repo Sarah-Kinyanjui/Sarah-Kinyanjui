@@ -1,6 +1,6 @@
 # Hello, I'm Sarah Kinyanjui
 
-<a href="https://www.linkedin.com/in/sarahkinyanjui/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sarah-kinyanjui/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a cybersecurity enthusiast with a focus on ethical hacking, penetration testing, and malware protection. I have built a home lab to explore various aspects of network security and incident response.
 
